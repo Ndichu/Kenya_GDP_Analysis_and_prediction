@@ -14,51 +14,46 @@ Kenya GDP Analysis and prediction from data set of between year 1960 to 2020
 
 
 
-# :dart: Analysis Goal 
+# :dart: Project Goals 
 ## Find out the following :->
 
-1. **Is there a relationship between gender and heart failure ?** 
+1. **The trend of Kenya GDP between 1960 and 2020** 
 
-2. **Is there a relationship between Age with heart failure ?** 
-
-3. **Is there a relationship between Diabetes with heart failure ?**
+2. **Predict Kenya GDP from year 2021 to 2030** 
 
 # :toolbox: libraries used
 1. pandas
 2. matplotlib
 3. seaborn
+4. sklearn
 
 
 # Repository Map
-1. :ballot_box_with_check: heart_failure_clinical_records_dataset.csv - the dataset used in the analysis
-2. :ballot_box_with_check: Heart-Failure-Analysis-and-visualization.ipynb - the jupyter notebook containing all the code, all analysis and visualization. 
+1. :ballot_box_with_check: gdp_1960_2020.csv - the dataset used in the analysis
+2. :ballot_box_with_check: Kenya_GDP_Analysis_and_prediction.ipynb - the jupyter notebook containing all the code, all analysis and visualization. 
 3. :ballot_box_with_check: README.md
 
 # Inspiration
 **Why this analysis ?**
 
-Coronary Heart Diseases is not a new occurrence in Kenya Today.
-According to the latest WHO data published in 2020 Coronary Heart Disease Deaths in Kenya reached 11,972 or 4.54% of total deaths. The age adjusted Death Rate is 72.70 per 100,000 of population ranks Kenya #144 in the world.
+Kenya is the economic, financial, and transport hub of East Africa. Kenya’s real GDP growth has averaged over 5% for the last decade. Since 2014, Kenya has been ranked as a lower middle income country because its per capita GDP crossed a World Bank threshold.
 
-However, There has been an increasing rate of Coronary Heart Disease in Kenya ever since 2018. This motivated me to understanding the causes of the increase in Coronary Heart Diseases and death rate in Kenya.
-
-During my analysis I found out that tobacco use and exposure to tobacco smoke is a major cause of raised blood pressure and other forms of CVDs including heart attack and stroke that eventually result to high death-rates  
+Retired President Kenyatta and his former Deputy, now President Ruto, pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives of universal healthcare, food security, affordable housing, and expansion of manufacturing. The "Big Four" initiatives will have a tremendous impact on Kenyan GDP. This analysis is as an instrest in the Kenyan GDP Growth and prediction with the influence of the "Big Four" initiatives projects since 2017 when Retired President Kenyatta and his former Deputy pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives.
 
 
 # Data analyis goals Findings and chart
-1. **Is there a relationship between gender and heart failure ?** YES! From the data, it is observed that the male have more death count compared to women and hence are more likely to succumb to heart failure.
+1. **What is the trend of Kenya GDP between 1960 and 2020** 
 ## chart
 ![gender and heart failure Linechart](https://george.m.ndichu.ltd.co.ke/media/github/gender-death-rel%20count%20plot.png "Relationship between gender and heart failure Linechart")
 
-2. **Is there a relationship between Age with heart failure ?** YES! From the data, it is observed that Older people compared to the young are prone to succumbing to heart failure
+1. **What is the trend of Kenya GDP between 2017 and 2020** 
+## chart
+![gender and heart failure Linechart](https://george.m.ndichu.ltd.co.ke/media/github/gender-death-rel%20count%20plot.png "Relationship between gender and heart failure Linechart")
+
+2. **Predicted Kenya GDP from year 2021 to 2030**
 ## chart
 ![Age and heart failure Lineplot](https://george.m.ndichu.ltd.co.ke/media/github/age-heart-failure-lineplot.png "Relationship between age and heart failure Line plot")
 
-3. **Is there a relationship between Diabetes with heart failure ?** NO! From the data, it is observed that there is little to no relationship between diabetes and heart failure
-## chart 1
-![Diabetes and heart failure Countplot](https://george.m.ndichu.ltd.co.ke/media/github/diabetes-heart-failure-countplot.png "Relationship between Diabetes and heart failure Count plot")
- ## chart 2
-![Diabetes and heart failure Line plot](https://george.m.ndichu.ltd.co.ke/media/github/diabetes-heart-failure-lineplot.png "Relationship between Diabetes and heart failure Line plot")
 
 # Research Findings
 1. **Awareness** is paramount in the control of Coronary Heart Diseases in Kenya.
