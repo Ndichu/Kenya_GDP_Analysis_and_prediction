@@ -38,7 +38,9 @@ Kenya GDP Analysis and prediction from data set of between year 1960 to 2020
 
 Kenya is the economic, financial, and transport hub of East Africa. Kenya’s real GDP growth has averaged over 5% for the last decade. Since 2014, Kenya has been ranked as a lower middle income country because its per capita GDP crossed a World Bank threshold.
 
-Retired President Kenyatta and his former Deputy, now President Ruto, pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives of universal healthcare, food security, affordable housing, and expansion of manufacturing. The "Big Four" initiatives will have a tremendous impact on Kenyan GDP. This analysis is as an instrest in the Kenyan GDP Growth and prediction with the influence of the "Big Four" initiatives projects since 2017 when Retired President Kenyatta and his former Deputy pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives.
+Retired President Kenyatta and his former Deputy, now President Ruto, pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives of universal healthcare, food security, affordable housing, and expansion of manufacturing. 
+
+The "Big Four" initiatives will have a tremendous impact on Kenyan GDP. This analysis is as an instrest in the Kenyan GDP Growth and prediction with the influence of the "Big Four" initiatives projects since 2017 when Retired President Kenyatta and his former Deputy pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives.
 
 
 # Data analyis goals Findings and chart
@@ -48,34 +50,27 @@ Retired President Kenyatta and his former Deputy, now President Ruto, pledged to
 
 1. **What is the trend of Kenya GDP between 2017 and 2020** 
 ## chart
-![gender and heart failure Linechart](https://george.m.ndichu.ltd.co.ke/media/github/gender-death-rel%20count%20plot.png "Relationship between gender and heart failure Linechart")
+![trend of Kenya GDP between 2017 and 2020](https://george.m.ndichu.ltd.co.ke/media/github/gender-death-rel%20count%20plot.png "Trend of Kenya GDP between 2017 and 2020")
 
 2. **Predicted Kenya GDP from year 2021 to 2030**
 ## chart
-![Age and heart failure Lineplot](https://george.m.ndichu.ltd.co.ke/media/github/age-heart-failure-lineplot.png "Relationship between age and heart failure Line plot")
+![Predicted Kenya GDP Scatter plot](https://george.m.ndichu.ltd.co.ke/media/github/prediction scatter plot.png "Predicted Kenya GDP Scatter plot")
 
 
-# Research Findings
-1. **Awareness** is paramount in the control of Coronary Heart Diseases in Kenya.
-
-2. **Smoking** and **exposure to smoke** (Especially smoking tobacco and exposure to tobacco) is a major cause of raised blood pressure and other forms of CVDs including heart attack and stroke.
-
-3. **Educating the public** on **adopting healthy lifestyles** is also key in the control of Coronary Heart Diseases in Kenya. More than half (56%) of the adult population has never had their blood pressure measured yet almost 1 in 4 Kenyans is living with hypertension and with just about a quarter of them being on medication.
-
-4. About 11.6% (2.5 Million) of adult Kenyans and 9.9 % of youth aged between 13 -15 years use tobacco products; while 86.1% of adults are exposed to **second-hand tobacco smoke** in bars and night clubs and 24.8% of youth being exposed at home. This demonstrates that a high number of Kenyans are prone to tobacco-related NCDs such as hypertension and other CVDs
+# Results
+2. **Predicted Results of Kenya GDP from year 2021 to 2030**
+## chart
+![Predicted Kenya GDP Scatter plot](https://george.m.ndichu.ltd.co.ke/media/github/prediction results scatter plot.png "Predicted Results of Kenya GDP between 2021 to 2030")
 
 # :black_nib: Acknowledgements
 ## Citation
 -Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020). (link)
 
 # Provenance
-## SOURCES
-
-[VIEW SOURCE ](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records) or <https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records>
-
-## COLLECTION METHODOLOGY
-Please refer to source.
+## Data set owner
+Ho Loong
+Algorithm Engineer at SF
 
 ## License
-**Attribution 4.0 International (CC BY 4.0)**
+**GPL 2**
 
