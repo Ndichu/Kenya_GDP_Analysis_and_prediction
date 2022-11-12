@@ -46,25 +46,21 @@ The "Big Four" initiatives will have a tremendous impact on Kenyan GDP. This ana
 # Data analyis goals Findings and chart
 1. **What is the trend of Kenya GDP between 1960 and 2020** 
 ## chart
-![gender and heart failure Linechart](https://george.m.ndichu.ltd.co.ke/media/github/gender-death-rel%20count%20plot.png "Relationship between gender and heart failure Linechart")
+![gender and heart failure Linechart](https://george.m.ndichu.ltd.co.ke/media/github/GDP%201960%20to%202020%20barplot.png "Relationship between gender and heart failure Linechart")
 
-1. **What is the trend of Kenya GDP between 2017 and 2020** 
-## chart
-![trend of Kenya GDP between 2017 and 2020](https://george.m.ndichu.ltd.co.ke/media/github/gender-death-rel%20count%20plot.png "Trend of Kenya GDP between 2017 and 2020")
 
 2. **Predicted Kenya GDP from year 2021 to 2030**
 ## chart
-![Predicted Kenya GDP Scatter plot](https://george.m.ndichu.ltd.co.ke/media/github/prediction scatter plot.png "Predicted Kenya GDP Scatter plot")
+![Predicted Kenya GDP Scatter plot](https://george.m.ndichu.ltd.co.ke/media/github/prediction%20scatter%20plot.png "Predicted Kenya GDP Scatter plot")
 
 
 # Results
-2. **Predicted Results of Kenya GDP from year 2021 to 2030**
+* **Predicted Results of Kenya GDP from year 2021 to 2030**
 ## chart
-![Predicted Kenya GDP Scatter plot](https://george.m.ndichu.ltd.co.ke/media/github/prediction results scatter plot.png "Predicted Results of Kenya GDP between 2021 to 2030")
+![Predicted Kenya GDP Scatter plot](https://george.m.ndichu.ltd.co.ke/media/github/prediction%20results%20scatter%20plot.png "Predicted Results of Kenya GDP between 2021 to 2030")
 
 # :black_nib: Acknowledgements
-## Citation
--Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020). (link)
+
 
 # Provenance
 ## Data set owner
