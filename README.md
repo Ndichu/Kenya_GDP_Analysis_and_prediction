@@ -40,7 +40,7 @@ Kenya is the economic, financial, and transport hub of East Africa. Kenya’s re
 
 Retired President Kenyatta and his former Deputy, now President Ruto, pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives of universal healthcare, food security, affordable housing, and expansion of manufacturing. 
 
-The "Big Four" initiatives will have a tremendous impact on Kenyan GDP. This analysis is as an instrest in the Kenyan GDP Growth and prediction with the influence of the "Big Four" initiatives projects since 2017 when Retired President Kenyatta and his former Deputy pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives.
+The "Big Four" initiatives will have a tremendous impact on Kenyan GDP. This analysis is as a result of my instrest in the Kenyan GDP Growth and prediction with the influence of the "Big Four" initiatives projects since 2017 when Retired President Kenyatta and his former Deputy pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives.
 
 
 # Data analyis goals Findings and chart
