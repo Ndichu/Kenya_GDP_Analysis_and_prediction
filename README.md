@@ -1,9 +1,9 @@
 # Kenya_GDP_Analysis_and_prediction
-Kenya GDP Analysis and prediction from data set of between year 1960 to 2020
+Kenya GDP Analysis and prediction from data set of between the year 2021 to 2030 in regards to the "Big Four" initiatives projects by Retired President Kenyatta and his former Deputy, now President Ruto.
  
 
 # About Dataset 
-* GDP of each country and region between year 1960 to 2020
+* GDP of each country and region between the year 1960 to 2020
 * GDP:Gross Domestic Product
 
 ## Countries in the data set
