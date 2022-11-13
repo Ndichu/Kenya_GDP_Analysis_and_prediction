@@ -1,9 +1,9 @@
 # Kenya_GDP_Analysis_and_prediction
-Kenya GDP Analysis and prediction from data set of between the year 2021 to 2030 in regards to the "Big Four" initiatives projects by Retired President Kenyatta and his former Deputy, now President Ruto.
+Kenya Gross Domestic Product (GDP) Analysis and prediction from data set of between the year 2021 to 2030 in regards to the "Big Four" initiatives projects by Retired President Kenyatta and his former Deputy, now President Ruto.
  
 
 # About Dataset 
-* GDP of each country and region between the year 1960 to 2020
+* Gross Domestic Product (GDP) of each country and region between the year 1960 to 2020
 * GDP:Gross Domestic Product
 
 ## Countries in the data set
@@ -17,9 +17,9 @@ Kenya GDP Analysis and prediction from data set of between the year 2021 to 2030
 # :dart: Project Goals 
 ## Find out the following :->
 
-1. **The trend of Kenya GDP between 1960 and 2020** 
+1. **The trend of Kenya Gross Domestic Product (GDP) between 1960 and 2020** 
 
-2. **Predict Kenya GDP from year 2021 to 2030** 
+2. **Predict Kenya Gross Domestic Product (GDP) from year 2021 to 2030** 
 
 # :toolbox: libraries used
 1. pandas
@@ -36,7 +36,7 @@ Kenya GDP Analysis and prediction from data set of between the year 2021 to 2030
 # Inspiration
 **Why this analysis ?**
 
-Kenya is the economic, financial, and transport hub of East Africa. Kenya’s real GDP growth has averaged over 5% for the last decade. Since 2014, Kenya has been ranked as a lower middle income country because its per capita GDP crossed a World Bank threshold.
+Kenya is the economic, financial, and transport hub of East Africa. Kenya’s real Gross Domestic Product (GDP) growth has averaged over 5% for the last decade. Since 2014, Kenya has been ranked as a lower middle income country because its per capita GDP crossed a World Bank threshold.
 
 Retired President Kenyatta and his former Deputy, now President Ruto, pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives of universal healthcare, food security, affordable housing, and expansion of manufacturing. 
 
@@ -44,7 +44,7 @@ The "Big Four" initiatives will have a tremendous impact on Kenyan GDP. This ana
 
 
 # Data analyis goals Findings and chart
-1. **What is the trend of Kenya GDP between 1960 and 2020** 
+1. **What is the trend of Kenya Gross Domestic Product (GDP) between 1960 and 2020** 
 ## chart
 ![gender and heart failure Linechart](https://george.m.ndichu.ltd.co.ke/media/github/GDP%201960%20to%202020%20barplot.png "Relationship between gender and heart failure Linechart")
 
